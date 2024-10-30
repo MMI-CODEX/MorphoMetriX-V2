@@ -50,7 +50,7 @@
 
 Let MorphoMetriX streamline the often tedious process of making photogrammetric measurements for you, offering a quick intuitive GUI to calculate piecewise/arc lengths and width profiles along segments/curves and areas for polygons. 
     
-Also check out [CollatriX](https://github.com/cbirdferrer/collatrix)<sup>1</sup>, a GUI to collate multiple MorphoMetriX outputs into a single datafile with add-on functions for correcting altitude error from UAS (drone) flights and calculating animal body condition.
+Also check out [CollatriX](https://github.com/MMI-CODEX/CollatriX)<sup>1</sup>, a GUI to collate multiple MorphoMetriX outputs into a single datafile with add-on functions for correcting altitude error from UAS (drone) flights and calculating animal body condition.
 
 1. Bird, C.N., and Bierlich, K.C. (2020). CollatriX: A GUI to collate MorphoMetriX outputs. Journal of Open Source Software, 5(51), 2328. [https://doi:10.21105/joss.02328](https://joss.theoj.org/papers/10.21105/joss.02328) 
 
