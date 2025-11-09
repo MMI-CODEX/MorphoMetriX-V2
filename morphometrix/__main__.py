@@ -11,7 +11,7 @@ from PySide6.QtGui import QShortcut, QIcon, QIntValidator, QDoubleValidator
 from PySide6.QtCore import Qt
 
 # TODO: Update before every release
-VERSION = "2.2.1"
+VERSION = "2.2.2"
 
 # ------------------------------
 #   MorphoMetrix - Developed By:
